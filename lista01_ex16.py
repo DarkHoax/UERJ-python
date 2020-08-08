@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 '''Created on Wed Jan 15 20:40:55 2020
 
+AINDA HÁ ERROS NO CODIGO
+
 16. Crie um algoritmo que:
     
     a) Leia e escreva o nome e a altura das moças inscritas em um concurso de
