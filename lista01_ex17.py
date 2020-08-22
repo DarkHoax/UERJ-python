@@ -29,5 +29,5 @@ while True:
     if sexo == 'M':
         homem += 1
         if resposta == 'N':
-            media += (nao/homem)
+            media += (homem/nao)
 print('Houveram {} sim e {} não, a porcentagem de homens que disseram não foi de {:<.2f}%'.format(sim, nao, media))
