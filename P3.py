@@ -51,7 +51,7 @@ def Impr(a, menor):
     print ('\nMatriz Lida\n')
     for i in range(m):
         for j in range(n):
-            print ('|{:.2f}|'.format(a[i][j]),end=' ')
+            print ('| {:.2f} |'.format(a[i][j]),end=' ')
         print()
     return
 

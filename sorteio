@@ -1,0 +1,9 @@
+from random import choice
+
+pote1 = []
+pote2 = []
+time1 = ''
+time2 = ''
+for i in pote1:
+	time1 = choice(pote1)
+print(time1)
